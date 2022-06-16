@@ -1,0 +1,108 @@
+ body {
+  font-family: "Trirong", serif;
+  border: 0px;
+  margin:0px;
+  background-color: #FFF0F5;
+   text-align: center;
+}
+.real{
+  font-family: "Trirong", serif;
+  font-size: 50px;
+ 
+  
+}
+ .nemteconto{
+  font-family: "Trirong", serif;
+  font-size: 30px;
+	 
+ }
+hr{
+	background-color: black;
+}
+.bemvindo{
+	 font-family: "Trirong", serif;
+  font-size: 30px;
+ 
+	
+}
+.DataPubli{
+  font-size:20px;
+  width:20%;
+  margin-left:15%;
+  
+}
+p{
+  font-size:20px;
+  width:20%;
+  margin-left:15%;
+  
+}
+.resumos{
+  width: 70%;
+  margin-left: 15% ;
+  
+}
+.tituloNoticia{
+  font-family: "Trirong", serif;
+  font-size: 30px;
+  width: 70%;
+  margin-left:15%;
+}
+.tituloDestaque{
+ 
+  font-family: "Trirong", serif;
+  font-size: 60px;
+  width: 70%;
+  margin-left:15%;
+}
+.dataDestaque{
+  width: 70%;
+  margin-left: 15% ;
+  font-size:20px;
+ 
+}
+.resumoDestaque{
+  
+  font-size:20px;
+  width:20%;
+  margin-left:15%;
+  
+}
+.tudoo{
+	 background-color: #FFFFF0 ;
+	width: 80%;
+
+	margin-left: 10%;
+}
+.bodypricipal{ 
+	 
+	 margin: 5% 13% 5%;
+	  border-style: inset;
+
+	  background-color: #FFDEAD
+
+}
+.rodape{
+	background-color: #FFFFF0 ;
+	width: 100%;
+  height: 30%;
+	
+}
+a:link {
+  color: black
+}
+
+/* visited link */
+a:visited{
+	color:black
+}
+
+/* mouse over link */
+a:hover {
+  color: #4682B4;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
